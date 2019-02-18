@@ -8,13 +8,13 @@ Licensed under the non-restrictive MIT license.
 
 Created by NachtRaveVL, February 17th, 2019.
 
-This lightweight Python script allows users of X-Plane 11™ to make quick modifications of installed aircraft's basic text information, such as name, tail-number, ICAO code, etc. This utility mirrors what one would find in the Author menu of the Plane Maker application, but unlike Plane Maker this script instead does not edit anything else in the plane's .acf file except for the specific values it needs to. This makes it so that no value recomputation and/or upgrading edits are made to any of the original aircraft's .acf data, of which Plane Maker does upon saving.
+This lightweight Python GUI script allows users of X-Plane 11™ to make quick modifications of installed aircraft's basic text information, such as name, tail-number, ICAO code, etc. This utility mirrors what one would find in the Author menu of the Plane Maker application, but unlike Plane Maker this script instead does not edit anything else in the plane's .acf file except for the specific values it needs to. This makes it so that no value recomputation and/or upgrading edits are made to any of the original aircraft's .acf data, of which Plane Maker does upon saving.
 
 ## Usage
 
-Simply save the XPRenamer.py file to a location on your computer, and run the file. Python 3 is required in order to run the file.
+Simply save the XPRenamer.py file to a location on your computer, and double-click to run the file. Python 3 is required in order to run the file.
 
-Download Python 3 here: <https://www.python.org/downloads/>
+Download and install Python 3 here: <https://www.python.org/downloads/>
 
 Download XPRenamer.py here: <https://github.com/NachtRaveVL/XPRenamer/raw/master/XPRenamer.py> (Right-click, Save link as)
 
